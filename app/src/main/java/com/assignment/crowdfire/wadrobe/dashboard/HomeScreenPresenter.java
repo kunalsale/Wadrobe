@@ -1,4 +1,4 @@
-package com.assignment.crowdfire.wadrobe;
+package com.assignment.crowdfire.wadrobe.dashboard;
 
 import android.os.Environment;
 import android.os.Parcel;

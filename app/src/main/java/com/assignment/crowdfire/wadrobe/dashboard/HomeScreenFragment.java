@@ -21,7 +21,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.assignment.crowdfire.wadrobe.HomeScreenPresenter;
 import com.assignment.crowdfire.wadrobe.R;
 import com.assignment.crowdfire.wadrobe.dashboard.adapters.HomeScreenPagerAdapter;
 import com.assignment.crowdfire.wadrobe.dashboard.viewmodel.HomeScreenViewModel;
